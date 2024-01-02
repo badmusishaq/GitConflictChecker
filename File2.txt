@@ -1,4 +1,6 @@
 Added file 2.
 
+Added new line.
+
 Updating in repo A.
 
